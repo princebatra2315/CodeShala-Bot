@@ -1,2 +1,2 @@
 # CodeShala-Bot
-ChatBot of CodeShala.You can asked anything about CodeShala to this bot.
+ChatBot of CodeShala.You can asked anything about Codeshala to this bot like Goals of Codeshala, Age-Group that can join Codeshala, assignments, blog, mentors, clients, how to contact Codeshala, contests, courses, reviews of Codeshala, Feedbacks, Faculty, Founder of Codeshala, Why Codeshala, Facebook group of Codeshala, website, IDE, Location, Timings, Sponsorship, referral , report a bug, scholarship test and many more things.
